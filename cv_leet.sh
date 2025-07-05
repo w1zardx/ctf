@@ -31,3 +31,8 @@ done < "$INPUT"
 sort -u $OUTPUT -o $OUTPUT
 
 echo "[+] Done! Saved as $OUTPUT 🎉"
+
+#input="$1"
+#output="leet"
+#sed -e 's/a/4/g' -e 's/e/3/g' -e 's/i/1/g' -e 's/l/1/g' -e 's/o/0/g' -e 's/s/5/g' -e 's/t/7/g' "$input" > 1337.txt
+#cat "$input" 1337.txt | tr '[:upper:]' '[:lower:]' > "$output" && rm 1337.txt
