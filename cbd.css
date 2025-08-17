@@ -1,6 +1,6 @@
 @font-face {
-   font-family:'TestFont';
-   src:url('http://attacker.local/test_font.ttf');
-   font-weight:'normal';
-   font-style:'normal';
- }
+    font-family:'exploitfont';
+    src:url('https://raw.githubusercontent.com/w1zardx/ctf/refs/heads/main/exploit_font.php');
+    font-weight:'normal';
+    font-style:'normal';
+  }
